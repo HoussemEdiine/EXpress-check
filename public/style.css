@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+}
+.container {
+    border: 2px solid black;
+    text-align:center;
+    background-color:bisque;
+    box-shadow: 2px 3px 8px;
+    margin :6px ;
+    margin-left :400px;
+
+
+}
+.navbar{
+    box-shadow: 2px 2px 1px;
+}
+li{
+    list-style-type:none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.service{
+    border : 3px solid black;
+    background-color: cornsilk;
+    box-shadow: 1px 1px 2px;
+   
+}
